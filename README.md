@@ -10,7 +10,7 @@
     2) Install on Server1 DHCP and DNS Server Role
 
 <p align="center">
-  <img src="screenshots/1-VirtualWinLabSetp.png" width="800">
+  <img src="screenshots/1-VirtualWinLabSetup.png" width="800">
   <br>
   <em>Figure 1. Complete Virtual Windows Lab</em>
 </p>
@@ -31,4 +31,4 @@
 2) The WinLabServerRoles-troubleshooting file will include any problems I encountered
 
 # Additional Notes
-- Refer to VirtualWinLabSetup for Initial Installation of lab environment
+- Refer to VirtualWinLabSetup Repository for Initial Installation of lab environment
