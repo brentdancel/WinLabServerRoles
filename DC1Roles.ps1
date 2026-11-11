@@ -1,0 +1,1 @@
+# Define the roles for the DC1 virtual machine
