@@ -10,7 +10,7 @@
     2) Install on Server1 DHCP and DNS Server Role
 
 <p align="center">
-  <img src="screenshots/1-VirtualWinLabSetup.png" width="800">
+  <img src="screenshots/01-VirtualWinLabSetup.png" width="800">
   <br>
   <em>Figure 1. Virtual Windows Lab</em>
 </p>
@@ -20,21 +20,18 @@ IPv4 Address: 192.168.0.10
 Subnet: 255.255.255.0  
 Default Gateway: 192.168.0.1  
 Preferred DNS Server: 192.168.0.10  
-Alternate DNS Server: 192.168.0.20  
 
 Server1 (DHCP, DNS, Other services)  
 IPv4 Address: 192.168.0.20  
 Subnet: 255.255.255.0  
 Default Gateway: 192.168.0.1  
-Preferred DNS Server: 192.168.0.20  
-Alternate DNS Server: 192.168.0.10  
+Preferred DNS Server: 192.168.0.10
 
 Win11Client (Static IP)  
 IPv4 Address: 192.168.0.2  
 Subnet: 255.255.255.0  
 Default Gateway: 192.168.0.1  
 Preferred DNS Server: 192.168.0.10  
-Alternate DNS Server: 192.168.0.20  
 
 
 # Tools/Technologies Used
